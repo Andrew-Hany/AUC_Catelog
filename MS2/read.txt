@@ -1,0 +1,56 @@
+Webscrapy folder 
+------------------------------
+1) main.py: i manipulated the data and put them in other csv 
+2)AUC_CATLOG->AUC_CATLOG->spider: contain the codes that i used to scrape the data from AUC Catelog
+3)AUC_CATLOG->AUC_CATLOG->database.py: contains the code that i used to populate the database by the csv files
+ 
+ALLCSV folder 
+------------------------------
+contains all the csv i used and created
+1)courseData_2: contains all the data baout the couses (not organizes,missy )
+2)Organized_Course_data: after organizing the data i put the data again in another file 
+3)other table file which i also put them separately inside TableCSV Folder
+
+TableCSV Folder
+------------------------------
+1)MajorTable -> major_code, major name
+2)course_table 
+3)CourseSem_table
+4)crossListed Table
+5)preq course Table
+
+SCreenShots for Database folder
+------------------------------
+- My laptop has a problem so i borrowed a lap from AUC library 
+which dont give me the access to /usr/local/mysql/data/, in order to get the files created by the Database
+- so i took screenShots for my dataBase in order to prove that they are populared with the same data inside the csv files
+
+Database_exported_data folder
+------------------------------
+- csv files exported from Mysql
+
+
+
+DUMB_database_data folder
+------------------------------
+- contains all the dumb database files
+
+
+
+
+Libraries Used:
+--------------
+1)scrapy 
+2)pandas 
+3)re  ->regex
+4)Sql_connector
+
+Languages:
+----------
+Python
+
+Platform
+--------
+PyCharm
+
+
