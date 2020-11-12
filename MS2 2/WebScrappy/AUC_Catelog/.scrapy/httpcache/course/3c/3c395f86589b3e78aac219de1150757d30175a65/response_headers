@@ -1,7 +1,0 @@
-Server: nginx
-Date: Wed, 04 Nov 2020 02:13:25 GMT
-Content-Type: text/html; charset=UTF-8
-Set-Cookie: AWSALB=85gbU4ANnNWVoKS5UxFYNii7bHtIaEBWAvDFYayr9TnYK9i+OflYZs1zyYBMvHVi1tHvgPSFx4qVlkqlO23iCX+fbw+qn1lSHmagVURSN58/QZMFCfpZKo3IBTDJ; Expires=Wed, 11 Nov 2020 02:13:30 GMT; Path=/
-Set-Cookie: AWSALBCORS=85gbU4ANnNWVoKS5UxFYNii7bHtIaEBWAvDFYayr9TnYK9i+OflYZs1zyYBMvHVi1tHvgPSFx4qVlkqlO23iCX+fbw+qn1lSHmagVURSN58/QZMFCfpZKo3IBTDJ; Expires=Wed, 11 Nov 2020 02:13:30 GMT; Path=/; SameSite=None
-Set-Cookie: ADRUM_BT=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
-Set-Cookie: ADRUM_BT=R%3A183%7Cg%3A10a9ab06-366f-441d-bfa5-b8053d17c88c11987%7Cn%3Adigarc_881d5e4b-64f1-425e-8ceb-5e44d2b69b37%7Ci%3A583114%7Cd%3A22%7Cs%3Af%7Ch%3Ae%7Ce%3A49; expires=Wed, 04-Nov-2020 02:14:00 GMT; Max-Age=30; path=/
