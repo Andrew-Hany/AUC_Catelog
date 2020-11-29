@@ -1,8 +1,8 @@
-drop database if exists `catelog`;
+drop database if exists `sql12379028`;
 
-create database if not exists `catelog`;
+create database if not exists `sql12379028`;
 
-use `catelog`;
+use `sql12379028`;
 
 
 
