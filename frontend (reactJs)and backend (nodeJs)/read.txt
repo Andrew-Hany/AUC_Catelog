@@ -1,0 +1,31 @@
+# AUC catelog
+i want to clarify some things in the project to make every thing clear
+======================================================================
+folders 
+--------------
+server -> i used in the server side node js
+auc_catelog -> it is my front end, i used react js
+views -> i created a view for verified review 
+dumbed ->contains the sql insert files exported from mySql bench
+csv ->contain the csv
+=======================================================================
+deployment & hosting 
+--------------------
+1)mysql ->hosted to "sql12.freemysqlhosting.net"
+2)node js is hosted in glitch.com (https://auc-catelog-backend.glitch.me)
+3)react js(which fetches the data from the bckend) on github ->https://andrew-hany.github.io/aucCatelog/
+
+if you decided to use the link (open it and wait for several seconds as the server is sleeping 
+if there is no one using it so it needs some seconds to re-wake again)
+
+4) GitHub->https://github.com/Andrew-Hany/AUC_Catelog
+==================================================================
+Running on local host
+-----------------------
+
+If you decided to run on your local host 
+1) you need first to download nom
+2)secondly I removed the node_modules from the sever and auc_catelog folders as they are huge folder, so you need to a) cd server b)npm i c)cd auc_catelog d)npm 
+3)to run them on local host 1)cd server 2)npm start 3)cd auc_Catelog d)npm start
+
+===============================================================================
