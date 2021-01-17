@@ -24,8 +24,8 @@ Running on local host
 -----------------------
 
 If you decided to run on your local host 
-1) you need first to download nom
-2)secondly I removed the node_modules from the sever and auc_catelog folders as they are huge folder, so you need to a) cd server b)npm i c)cd auc_catelog d)npm 
+1) you need first to download npm
+2)secondly I removed the node_modules from the sever and auc_catelog folders as they are huge folder, so you need to a) cd server b)npm i c)cd auc_catelog 
 3)to run them on local host 1)cd server 2)npm start 3)cd auc_Catelog d)npm start
 
 ===============================================================================
