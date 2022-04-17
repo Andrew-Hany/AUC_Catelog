@@ -6,10 +6,10 @@ import pandas as pd
 # print(courses['name'])
 
 conn = mysql.connector.connect(
-    host='localhost',
-    user='root',
-    passwd='paterhany',
-    database='catelog'
+    host='....',
+    user='....',
+    passwd='....',
+    database='.....'
 )
 curr = conn.cursor()
 i = 0
